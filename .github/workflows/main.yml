@@ -1,5 +1,4 @@
-
- name: React App
+name: React App
 
 on:
   push:
